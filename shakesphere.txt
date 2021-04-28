@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Apr 28 14:35:57 2021
+
+@author: Rahul
+"""
+
+When they had sworn to this advised doom,
+
+They did conclude to bear dead Lucrece thence;
+
+To show her bleeding body thorough Rome,
+
+And so to publish Tarquin’s foul offence:
+
+Which being done with speedy diligence,
+
+The Romans plausibly did give consent
+
+To Tarquin’s everlasting banishment.
